@@ -1,12 +1,21 @@
-div{
-              width: 550px;
-              height: 200px;
-              background-color: rgba(184, 191, 191, 0.995); 
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@300&display=swap');
+
+
+       div{
+              margin-top: 50px;
+              margin-bottom: 80px;
+              font-family: 'Mali';
+              width: 1000px;
+              height: 600px;
+              background-color:#4E6C50; 
+              border: dotted 25px #FAD6A5;
+              
                     
        }
        h1{
-                   
-              background-color: rgb(155, 150, 150);
+              font-size: 45px;
+              background-color: #AA8B56;
+              
        }
        .button {
               border: none;
@@ -16,5 +25,21 @@ div{
               display: inline-block;
               font-size: 16px;
               
-          }
+       }
+       .body{
+              background: #395144;
+       }
+       .inputdesign{
+       margin-top: 25px;
+       height: 50px;
+       }
+       .top501{
+       margin-top: 50px;
+       font-size: 30px;
+       
+       }
+       .top502{
+              font-size: 30px;
+              }
+
           
